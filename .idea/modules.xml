@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Jupyter-Notebooks.iml" filepath="$PROJECT_DIR$/.idea/Jupyter-Notebooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../html-examples/.idea/html-examples.iml" filepath="$PROJECT_DIR$/../html-examples/.idea/html-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyMeasure/.idea/pyMeasure.iml" filepath="$PROJECT_DIR$/../pyMeasure/.idea/pyMeasure.iml" />
     </modules>
   </component>
 </project>
