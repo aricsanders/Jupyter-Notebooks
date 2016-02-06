@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="563e6aa9-0287-4d45-9f71-36b09981bd16" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sandersa.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DjangoUtils_RegisterModels_Example_20160205_01-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DjangoUtils_RegisterModels_Example_20160205_01.ipynb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../html-examples/Django_Template_Example.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../html-examples/Django_Template_Example_20160204_01.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Building_Calnet_Example_20160201_01-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Building_Calnet_Example_20160201_01-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Development_Stack_Installation_Example_20160130_01-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Development_Stack_Installation_Example_20160130_01-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Building_Calnet_Example_20160201_01.ipynb" afterPath="$PROJECT_DIR$/Building_Calnet_Example_20160201_01.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Development_Stack_Installation_Example_20160130_01.ipynb" afterPath="$PROJECT_DIR$/Development_Stack_Installation_Example_20160130_01.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../html-examples/.idea/html-examples.iml" afterPath="$PROJECT_DIR$/../html-examples/.idea/html-examples.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasure/.idea/pyMeasure.iml" afterPath="$PROJECT_DIR$/../pyMeasure/.idea/pyMeasure.iml" />
     </list>
@@ -135,8 +128,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Test_Site/Test_App/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7266592">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.2800659">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -192,8 +185,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="width" value="1380" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -426,14 +419,20 @@
       <option name="project" value="LOCAL" />
       <updated>1454642276299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update of how to build calnet / especially admin.py&#10;">
+      <created>1454720540213</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1454720540213</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1380" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25119048" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30938417" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -486,7 +485,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update of Dev stack documentation&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update of Dev stack documentation&#10;" />
+    <MESSAGE value="Update of how to build calnet / especially admin.py&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update of how to build calnet / especially admin.py&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -848,8 +848,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Test_Site/Test_App/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7266592">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2800659">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
