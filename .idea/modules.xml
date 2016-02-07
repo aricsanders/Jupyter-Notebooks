@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Jupyter-Notebooks.iml" filepath="$PROJECT_DIR$/.idea/Jupyter-Notebooks.iml" />
+      <module fileurl="file://$USER_HOME$/Test_Site/.idea/Test_Site.iml" filepath="$USER_HOME$/Test_Site/.idea/Test_Site.iml" />
+      <module fileurl="file://C:/Anaconda2/Lib/site-packages/registration/.idea/registration.iml" filepath="C:/Anaconda2/Lib/site-packages/registration/.idea/registration.iml" />
     </modules>
   </component>
 </project>
