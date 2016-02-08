@@ -7,5 +7,7 @@
     <orderEntry type="module" module-name="html-examples" />
     <orderEntry type="module" module-name="Test_Site" />
     <orderEntry type="module" module-name="registration" />
+    <orderEntry type="module" module-name="Test_Site" />
+    <orderEntry type="module" module-name="registration" />
   </component>
 </module>
