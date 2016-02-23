@@ -15,5 +15,8 @@
     <orderEntry type="module" module-name="test_site" />
     <orderEntry type="module" module-name="test_site" />
     <orderEntry type="module" module-name="test_site" />
+    <orderEntry type="module" module-name="html-examples" />
+    <orderEntry type="module" module-name="HTML" />
+    <orderEntry type="module" module-name="pyMeasureNew" />
   </component>
 </module>
