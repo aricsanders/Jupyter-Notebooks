@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="563e6aa9-0287-4d45-9f71-36b09981bd16" name="Default" comment="Import calrep&#10;&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" afterPath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Import_Calrep_20160223_001.ipynb" afterPath="$PROJECT_DIR$/Import_Calrep_20160223_001.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../svg/.idea/svg.iml" afterPath="$PROJECT_DIR$/../svg/.idea/svg.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/.idea/test_site.iml" afterPath="$PROJECT_DIR$/../test_site/.idea/test_site.iml" />
     </list>
@@ -53,16 +53,26 @@
         <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/NISTModels.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="152" column="77" selection-start-line="152" selection-start-column="77" selection-end-line="152" selection-end-column="77" />
+              <caret line="224" column="21" selection-start-line="224" selection-start-column="21" selection-end-line="224" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Files_On_Storage_2_Metadata.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../pyMeasure/Files_On_Storage_2_Metadata.xml">
+      <file leaf-file-name="TouchstoneModels.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Files_On_Storage_2_Metadata.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyMeasure/Files_On_Storage_2_Metadata.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -73,7 +83,17 @@
         <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/XMLModels.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+              <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ONE_PORT_STYLE.xsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/XSL/ONE_PORT_STYLE.xsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,51 +103,27 @@
         <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/GeneralModels.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding>
-                <element signature="e#573#592#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StyledTextCtrlPanel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/FrontEnds/StyledTextCtrlPanel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-              <folding>
-                <element signature="e#37#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HTMLPanel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/FrontEnds/HTMLPanel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="1270" column="22" selection-start-line="1270" selection-start-column="22" selection-end-line="1270" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VisaDialog.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyMeasure/Code/Development/VisaDialog.py">
+      <file leaf-file-name="ONE_PORT_RAW_STYLE.xsl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/XSL/ONE_PORT_RAW_STYLE.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="111" column="6" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="E8361A_PNA_01.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/FrontEnds/Tests/E8361A_PNA_01.xml">
+      <file leaf-file-name="Translations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/Translations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="78" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+            <state vertical-scroll-proportion="0.50596255">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -149,7 +145,7 @@
         <option value="aricsanders &lt;aric.sanders@gmail.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pyMeasure" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../pyMeasureNew" />
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
@@ -157,8 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Test_Site/Test_Site/templates/registration/activate.html" />
-        <option value="C:/python27/Lib/site-packages/registration/forms.py" />
         <option value="$USER_HOME$/Test_Site/Test_Site/templates/registration/logout.html" />
         <option value="$USER_HOME$/Test_Site/Test_Site/templates/registration/registration_form.html" />
         <option value="$USER_HOME$/Test_Site/Test_Site/templates/registration/user_info.html" />
@@ -206,8 +200,10 @@
         <option value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/FrontEnds/HTMLPanel.py" />
         <option value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/FrontEnds/VisaDialog.py" />
         <option value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/Analysis/__init__.py" />
-        <option value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/GeneralModels.py" />
         <option value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/NISTModels.py" />
+        <option value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/XSL/ONE_PORT_RAW_STYLE.xsl" />
+        <option value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/Translations.py" />
+        <option value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/GeneralModels.py" />
       </list>
     </option>
   </component>
@@ -285,37 +281,21 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pyMeasure" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sandersa\Test_Site\Test_Site\templates" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sandersa\PyCharmProjects\pyMeasureNew\pyMeasure\Code\DataHandlers\XSL" />
       <recent name="C:\Users\sandersa\PyCharmProjects\pyMeasureNew\pyMeasure\Code\FrontEnds\Tests" />
       <recent name="C:\Users\sandersa\PyCharmProjects\html-examples" />
       <recent name="C:\Users\sandersa\Test_Site\Test_Site\templates\registration" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sandersa\Test_Site\Test_Site\templates" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.NISTModels">
-    <configuration default="false" name="ShellPanel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/FrontEnds" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyMeasureNew" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/FrontEnds/ShellPanel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Translations">
     <configuration default="false" name="MatplotlibWxPanel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,23 +309,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyMeasureNew" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/FrontEnds/MatplotlibWxPanel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="GetMetadata" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/Utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyMeasureNew" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/Utils/GetMetadata.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -380,6 +343,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyMeasureNew" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/NISTModels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Translations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyMeasureNew" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/Translations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GeneralModels" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyMeasureNew" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/GeneralModels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -507,19 +504,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ShellPanel" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MatplotlibWxPanel" />
-      <item index="2" class="java.lang.String" itemvalue="Python.GetMetadata" />
-      <item index="3" class="java.lang.String" itemvalue="Python.VisaDialog" />
-      <item index="4" class="java.lang.String" itemvalue="Python.NISTModels" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MatplotlibWxPanel" />
+      <item index="1" class="java.lang.String" itemvalue="Python.VisaDialog" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NISTModels" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Translations" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GeneralModels" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.NISTModels" />
-        <item index="1" class="java.lang.String" itemvalue="Python.VisaDialog" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MatplotlibWxPanel" />
-        <item index="3" class="java.lang.String" itemvalue="Python.GetMetadata" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ShellPanel" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Translations" />
+        <item index="1" class="java.lang.String" itemvalue="Python.GeneralModels" />
+        <item index="2" class="java.lang.String" itemvalue="Python.NISTModels" />
+        <item index="3" class="java.lang.String" itemvalue="Python.VisaDialog" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MatplotlibWxPanel" />
       </list>
     </recent_temporary>
   </component>
@@ -708,7 +705,19 @@
       <option name="project" value="LOCAL" />
       <updated>1457052970514</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Import calrep&#10;&#10;">
+      <created>1457053111277</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1457053111277</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Import calrep&#10;&#10;">
+      <created>1457385504346</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1457385504346</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -718,10 +727,10 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26607144" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293348" sideWeight="0.32440478" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293348" sideWeight="0.33035713" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3089431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22791712" sideWeight="0.4642857" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293348" sideWeight="0.6755952" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22791712" sideWeight="0.4595238" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293348" sideWeight="0.66964287" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25119048" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -792,34 +801,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/HPBASIC_HTML/FINDLEN.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="19.615385">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/HPBASIC_HTML/LINEPAR.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/HPBASIC_HTML/MEASLPX.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1844" column="59" selection-start-line="1844" selection-start-column="59" selection-end-line="1844" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../html-examples/plotly_example_20160220_005.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../html-examples/plotly_example_20160220_006.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1048,6 +1029,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+          <folding>
+            <element signature="e#549#623#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1105,7 +1089,27 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
           <folding>
-            <element signature="e#37#46#0" expanded="true" />
+            <marker date="1457367481587" expanded="true" signature="37:60" placeholder="import ..." />
+            <marker date="1457367481587" expanded="true" signature="1455:15381" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="1616:9312" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="9349:10917" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="10950:12119" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="12155:13135" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="13160:14183" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="14260:15381" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="15501:16014" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="16339:31699" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="16631:25628" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="25665:27233" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="27266:28437" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="28473:29453" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="29478:30501" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="30578:31699" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="31962:33067" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="32084:32200" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="32229:32421" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="32455:32973" placeholder="..." />
+            <marker date="1457367481587" expanded="true" signature="33034:33067" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1135,28 +1139,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/XMLModels.py">
+    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/GeneralModels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="e#573#592#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/NISTModels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="152" column="77" selection-start-line="152" selection-start-column="77" selection-end-line="152" selection-end-column="77" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1165,6 +1151,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/XMLModels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/XSL/ONE_PORT_STYLE.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/NISTModels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="224" column="21" selection-start-line="224" selection-start-column="21" selection-end-line="224" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/XSL/ONE_PORT_RAW_STYLE.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="111" column="6" selection-start-line="111" selection-start-column="6" selection-end-line="111" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/GeneralModels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1270" column="22" selection-start-line="1270" selection-start-column="22" selection-end-line="1270" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/Translations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50596255">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding />
         </state>
       </provider>
