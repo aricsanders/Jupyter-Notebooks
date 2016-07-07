@@ -3,20 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="pyMeasure" />
-    <orderEntry type="module" module-name="html-examples" />
-    <orderEntry type="module" module-name="Test_Site" />
-    <orderEntry type="module" module-name="registration" />
-    <orderEntry type="module" module-name="Test_Site" />
-    <orderEntry type="module" module-name="registration" />
     <orderEntry type="module" module-name="svg" />
-    <orderEntry type="module" module-name="test_site" />
-    <orderEntry type="module" module-name="test_site" />
-    <orderEntry type="module" module-name="test_site" />
-    <orderEntry type="module" module-name="test_site" />
-    <orderEntry type="module" module-name="test_site" />
     <orderEntry type="module" module-name="html-examples" />
-    <orderEntry type="module" module-name="HTML" />
     <orderEntry type="module" module-name="pyMeasureNew" />
     <orderEntry type="module" module-name="pyMeasure" />
     <orderEntry type="module" module-name="test_site" />
