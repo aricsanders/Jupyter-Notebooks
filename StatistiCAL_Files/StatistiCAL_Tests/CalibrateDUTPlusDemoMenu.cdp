@@ -1,0 +1,9 @@
+#MenuItem#Me_TabControl1_TabPage1_CheckInteriorModel:Checked=True
+#MenuItem#Me_TabControl1_TabPage1_ComboBoxEmbedNetwork:SelectedIndex=1
+#MenuItem#Me_TabControl1_TabPage1_TextEmbed_SolVect:Text=C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\Solution_Plus.txt
+#MenuItem#Me_TabControl1_TabPage1_TextEmbed_CovMat:Text=C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\Covariance.bin
+#MenuItem#Me_TabControl1_TabPage2_ComboBoxTotal:SelectedIndex=0
+#MenuItem#Me_TabControl1_TabPage2_TextTotal_S:Text=C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\ATT0.txt
+#MenuItem#Me_TabControl1_TabPage3_ComboBoxSwitch:SelectedIndex=0
+#MenuItem#Me_TabControl1_TabPage3_TextEmbed_IsolationTerms:Text=C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\IsolationTerms.txt
+#MenuItem#Me_TabControl1_TabPage3_TextEmbed_SwitchTerms:Text=C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\SwitchTerms.txt
