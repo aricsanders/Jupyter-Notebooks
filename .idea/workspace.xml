@@ -24,8 +24,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyMeasure/Code/FrontEnds/img/sage_logo_v3_s_icon.ico" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyMeasure/Code/FrontEnds/img/sage_logo_v3_s_icon.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyMeasure/Code/Utils/Tests/Koala.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ASC_History_Plot_20160811_001-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ASC_History_Plot_20160811_001.ipynb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyMeasure/Code/Analysis/SParameter.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyMeasure/Code/Analysis/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../pyMeasure/Code/DataHandlers/AbstractDjangoModels.py" />
@@ -254,6 +252,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/png/US-ASCII_code_chart.png" afterPath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/png/US-ASCII_code_chart.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" afterPath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../html-examples/Image_Cube_Example_20160816_001.html" afterPath="$PROJECT_DIR$/../html-examples/Image_Cube_Example_20160816_001.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasure/.idea/misc.xml" afterPath="$PROJECT_DIR$/../pyMeasure/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasure/.idea/modules.xml" afterPath="$PROJECT_DIR$/../pyMeasure/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasure/.idea/pyMeasure.iml" afterPath="$PROJECT_DIR$/../pyMeasure/.idea/pyMeasure.iml" />
@@ -325,9 +324,30 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.89066666">
-              <caret line="270" column="32" selection-start-line="270" selection-start-column="32" selection-end-line="270" selection-end-column="32" />
+            <state vertical-scroll-proportion="1.6613333">
+              <caret line="263" column="69" selection-start-line="263" selection-start-column="69" selection-end-line="263" selection-end-column="69" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Image_Cube_Example_20160816_001.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../html-examples/Image_Cube_Example_20160816_001.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="364" column="9" selection-start-line="364" selection-start-column="9" selection-end-line="364" selection-end-column="9" />
+              <folding>
+                <element signature="n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#7;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#8;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#tr#9;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -377,7 +397,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../html-examples/HPBasic_Highlighting_20160218_002.html" />
         <option value="$PROJECT_DIR$/../html-examples/HPBasic_Highlighting_20160218_001.html" />
         <option value="$PROJECT_DIR$/../html-examples/HPBasic_PostPrism_20160219_001.html" />
         <option value="$PROJECT_DIR$/Example_AutoName_20160121_001.ipynb" />
@@ -427,6 +446,7 @@
         <option value="$PROJECT_DIR$/../test_site/Test_Site/Test_Site/templates/checkstandard.html" />
         <option value="$PROJECT_DIR$/../test_site/Test_Site/Test_Site/templates/file_template.html" />
         <option value="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/app_data/Server_Style_Glossary_20160719_01.xsl" />
+        <option value="$PROJECT_DIR$/../html-examples/Image_Cube_Example_20160816_001.html" />
         <option value="$PROJECT_DIR$/../test_site/Test_Site/Test_App/views.py" />
       </list>
     </option>
@@ -793,12 +813,6 @@
       <option name="number" value="Default" />
       <updated>1453271875951</updated>
     </task>
-    <task id="LOCAL-00031" summary="Import calrep&#10;&#10;">
-      <created>1457385504346</created>
-      <option name="number" value="00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1457385504346</updated>
-    </task>
     <task id="LOCAL-00032" summary="Import calrep&#10;&#10;">
       <created>1457385552288</created>
       <option name="number" value="00032" />
@@ -1087,7 +1101,13 @@
       <option name="project" value="LOCAL" />
       <updated>1469728074521</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="ASC History plot">
+      <created>1470972262829</created>
+      <option name="number" value="00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1470972262832</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1096,6 +1116,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33870968" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5541667" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3089431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31968504" sideWeight="0.44583333" order="3" side_tool="false" content_ui="tabs" />
@@ -1103,7 +1124,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1171,7 +1191,8 @@
     <MESSAGE value="Import calrep&#10;&#10;" />
     <MESSAGE value="New test site with data&#10;&#10;" />
     <MESSAGE value="update MUF_DUTs.png&#10;&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="update MUF_DUTs.png&#10;&#10;&#10;" />
+    <MESSAGE value="ASC History plot" />
+    <option name="LAST_COMMIT_MESSAGE" value="ASC History plot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1510,14 +1531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/app_data/Server_Style_Glossary_20160719_01.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.423077">
-          <caret line="114" column="66" selection-start-line="114" selection-start-column="33" selection-end-line="114" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Test_Site/Test_App/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1546,10 +1559,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../html-examples/Image_Cube_Example_20160816_001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="364" column="9" selection-start-line="364" selection-start-column="9" selection-end-line="364" selection-end-column="9" />
+          <folding>
+            <element signature="n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#7;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#8;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#9;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/app_data/Server_Style_Glossary_20160719_01.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.423077">
+          <caret line="114" column="66" selection-start-line="114" selection-start-column="33" selection-end-line="114" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89066666">
-          <caret line="270" column="32" selection-start-line="270" selection-start-column="32" selection-end-line="270" selection-end-column="32" />
+        <state vertical-scroll-proportion="1.6613333">
+          <caret line="263" column="69" selection-start-line="263" selection-start-column="69" selection-end-line="263" selection-end-column="69" />
           <folding />
         </state>
       </provider>
