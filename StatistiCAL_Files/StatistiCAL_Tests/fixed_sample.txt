@@ -1,8 +1,8 @@
  1 
-0
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\SP1_est.txt
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\SP2_est.txt
-
+4.296
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\sp1_in.txt
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\sp2_in.txt
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\eps_in.txt
  3 
  1 
  0 
@@ -31,7 +31,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
  0 
-Sample SOLT calibration with a DUT 
+Sample TRL calibration
  0 
  0 
  0 
@@ -45,19 +45,121 @@ Sample SOLT calibration with a DUT
  0 
  0 
  0 
- 4 
- 0 
- 0 
- 0 
+ 1 
  8 
+ 1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 1 
+ 11 
+0
+ 3 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std01.txt
+
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std01_def.txt
+
+ 1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+0
+ 1 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std02.txt
+
+
+
+ 1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+0.01
  2 
- 4 
- 0 
- 1 
- 19 
-0
- 1 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\THRU.txt
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std03.txt
 
 
 
@@ -106,9 +208,9 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
  0 
-0
- 1 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\THRUR.txt
+0.03
+ 2 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std04.txt
 
 
 
@@ -157,9 +259,9 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
  0 
-0
- 1 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\THRU2.txt
+0.05
+ 2 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std05.txt
 
 
 
@@ -208,9 +310,213 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
  0 
-0
+0.2
+ 2 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std06.txt
+
+
+
  1 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\THRUR2.txt
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+0.7
+ 2 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std07.txt
+
+
+
+ 1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+0.5
+ 2 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std08.txt
+
+
+
+ 1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+1.1
+ 2 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std09.txt
+
+
+
+ 1 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+2.0
+ 2 
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std10.txt
 
 
 
@@ -261,7 +567,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0
  11 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\GTHRU.txt
+C:\Users\sandersa\PyCharmProjects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std11.txt
 
 
 
@@ -311,422 +617,14 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 4 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\LOAD.txt
+ 0 
 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\LOAD_def.txt
 
- 1 
- 0 
- 1 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
-0
- 4 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\LOAD2.txt
 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\LOAD_def.txt
 
- 1 
  0 
- 1 
  0 
  0 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
-0
- 4 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\FLAT.txt
-
-Analytic model selected.
-
- 1 
- 0 
- 1 
- 0 
- 1 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
-0
- 4 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\FLAT2.txt
-
-Analytic model selected.
-
- 1 
- 0 
- 1 
- 0 
- 1 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 50 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
-0
- 4 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\OPEN.txt
-
-Analytic model selected.
-
- 1 
- 0 
- 1 
- 0 
- 1 
- 20.837 
- 50 
- 3.23 
- 0 
- 29.722 
- 165.78 
--3.5385 
- 0.071 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 1000000000 
- 0 
- 0 
- 0 
- 20.837 
- 50 
- 3.23 
- 0 
- 29.722 
- 165.78 
--3.5385 
- 0.071 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 1000000000 
- 0 
- 0 
- 0 
-0
- 4 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\OPEN2.txt
-
-Analytic model selected.
-
- 1 
- 0 
- 1 
- 0 
- 1 
- 20.837 
- 50 
- 3.23 
- 0 
- 29.722 
- 165.78 
--3.585 
- 0.071 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 1000000000 
- 0 
- 0 
- 0 
- 20.837 
- 50 
- 3.23 
- 0 
- 29.722 
- 165.78 
--3.585 
- 0.071 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 1000000000 
- 0 
- 0 
- 0 
-0
- 4 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\SHORT.txt
-
-Analytic model selected.
-
- 1 
- 0 
- 1 
- 0 
- 1 
- 22.548 
- 50 
- 3.554 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 2.1636 
--146.35 
- 4.0443 
--0.0363 
- 0 
- 0 
- 0 
- 0 
- 22.548 
- 50 
- 3.554 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 2.1636 
--146.35 
- 4.0443 
--0.0363 
- 0 
- 0 
- 0 
- 0 
-0
- 4 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\SHORT2.txt
-
-Analytic model selected.
-
- 1 
- 0 
- 1 
- 0 
- 1 
- 22.548 
- 50 
- 3.554 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 2.1636 
--146.35 
- 4.0443 
--0.0363 
- 0 
- 0 
- 0 
- 0 
- 22.548 
- 50 
- 3.554 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 0 
- 2.1636 
--146.35 
- 4.0443 
--0.0363 
- 0 
- 0 
- 0 
- 0 
-0
- 6 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY201.txt
-
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY201_def.txt
-
- 1 
- 0 
- 1 
  0 
  0 
  0 
@@ -770,14 +668,14 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 6 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY2012.txt
-
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY201_def.txt
-
- 1 
  0 
- 1 
+
+
+
+
+ 0 
+ 0 
+ 0 
  0 
  0 
  0 
@@ -821,14 +719,14 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 8 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY202.txt
-
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY202_def.txt
-
- 1 
  0 
- 1 
+
+
+
+
+ 0 
+ 0 
+ 0 
  0 
  0 
  0 
@@ -872,14 +770,14 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 8 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY2022.txt
-
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY202_def.txt
-
- 1 
  0 
- 1 
+
+
+
+
+ 0 
+ 0 
+ 0 
  0 
  0 
  0 
@@ -923,14 +821,14 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 8 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY202_measured with rnd.txt
-
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY202_def.txt
-
- 1 
  0 
- 1 
+
+
+
+
+ 0 
+ 0 
+ 0 
  0 
  0 
  0 
@@ -974,14 +872,116 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 8 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY202_measured with rnd1.txt
-
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\DY202_def.txt
-
- 1 
  0 
- 1 
+
+
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+0
+ 0 
+
+
+
+
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+0
+ 0 
+
+
+
+
+ 0 
+ 0 
+ 0 
  0 
  0 
  0 
