@@ -1,8 +1,8 @@
  1 
 4.296
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\sp1_in.txt
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\sp2_in.txt
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\eps_in.txt
+C:\My Documents\Dylan\PostCal\sp1_in.txt
+C:\My Documents\Dylan\PostCal\sp2_in.txt
+C:\My Documents\Dylan\PostCal\eps_in.txt
  3 
  1 
  0 
@@ -31,7 +31,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
  0 
-Sample TRL calibration
+ 0 
  0 
  0 
  0 
@@ -51,15 +51,15 @@ Sample TRL calibration
  0 
  0 
  0 
- 0 
+ 3 
  0 
  1 
- 11 
+ 14 
 0
  3 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std01.txt
+C:\My Documents\Dylan\PostCal\std01.txt
 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std01_def.txt
+
 
  1 
  0 
@@ -108,7 +108,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0
  1 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std02.txt
+C:\My Documents\Dylan\PostCal\std02.txt
 
 
 
@@ -159,7 +159,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0.01
  2 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std03.txt
+C:\My Documents\Dylan\PostCal\std03.txt
 
 
 
@@ -210,7 +210,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0.03
  2 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std04.txt
+C:\My Documents\Dylan\PostCal\std04.txt
 
 
 
@@ -261,7 +261,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0.05
  2 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std05.txt
+C:\My Documents\Dylan\PostCal\std05.txt
 
 
 
@@ -312,7 +312,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0.2
  2 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std06.txt
+C:\My Documents\Dylan\PostCal\std06.txt
 
 
 
@@ -363,7 +363,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0.7
  2 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std07.txt
+C:\My Documents\Dylan\PostCal\std07.txt
 
 
 
@@ -414,7 +414,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0.5
  2 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std08.txt
+C:\My Documents\Dylan\PostCal\std08.txt
 
 
 
@@ -465,7 +465,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 1.1
  2 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std09.txt
+C:\My Documents\Dylan\PostCal\std09.txt
 
 
 
@@ -516,7 +516,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 2.0
  2 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std10.txt
+C:\My Documents\Dylan\PostCal\std10.txt
 
 
 
@@ -567,7 +567,7 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
 0
  11 
-C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiCAL_Tests\std11.txt
+C:\My Documents\Dylan\PostCal\std11.txt
 
 
 
@@ -617,14 +617,14 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 0 
+ 8 
+C:\My Documents\Dylan\PostCal\std02.txt
 
+0 0 0 1 0 0 1 0 0 0 0 0
 
-
-
+ 1 
  0 
- 0 
- 0 
+ 1 
  0 
  0 
  0 
@@ -668,14 +668,14 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 0 
+ 8 
+C:\My Documents\Dylan\PostCal\std02p.txt
 
+0 0 0 1 0 0 1 0 0 0 0 0
 
-
-
+ 1 
  0 
- 0 
- 0 
+ 1 
  0 
  0 
  0 
@@ -719,14 +719,14 @@ C:\Users\sandersa\PyCharm Projects\Jupyter-Notebooks\StatistiCAL_Files\StatistiC
  0 
  0 
 0
- 0 
+ 8 
+C:\My Documents\Dylan\PostCal\std02m.txt
 
+0 0 0 1 0 0 1 0 0 0 0 0
 
-
-
+ 1 
  0 
- 0 
- 0 
+ 1 
  0 
  0 
  0 
