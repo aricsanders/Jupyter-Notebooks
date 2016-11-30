@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
-<?xml-stylesheet type="text/xsl" href="../XSL/ONE_PORT_STYLE.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/DEFAULT_MEASUREMENT_STYLE.xsl"?>
 <Data_Table>
-	<Data_Description/>
 	<Data>
 		<Tuple Frequency="0.01" argS11="-151.89" magS11="0.0028" uAa="0.14" uAb="146.06" uAd="7.75" uAg="180.0" uMa="0.0025" uMb="0.0146" uMd="0.0003" uMg="0.0295"/>
 		<Tuple Frequency="0.02" argS11="-126.17" magS11="0.0039" uAa="0.14" uAb="100.15" uAd="1.78" uAg="180.0" uMa="0.0025" uMb="0.0085" uMd="0.0001" uMg="0.0178"/>
@@ -315,8 +314,5 @@
 		<Tuple Frequency="49.0" argS11="175.57" magS11="0.3103" uAa="0.41" uAb="2.69" uAd="0.36" uAg="5.45" uMa="0.0072" uMb="0.0065" uMd="0.0001" uMg="0.0194"/>
 		<Tuple Frequency="49.2" argS11="166.76" magS11="0.3108" uAa="0.42" uAb="2.7" uAd="0.36" uAg="5.47" uMa="0.0074" uMb="0.0065" uMd="0.0002" uMg="0.0196"/>
 		<Tuple Frequency="49.4" argS11="158.06" magS11="0.3107" uAa="0.43" uAb="2.71" uAd="0.36" uAg="5.49" uMa="0.0075" uMb="0.0065" uMd="0.0002" uMg="0.0199"/>
-		<Tuple Frequency="49.6" argS11="149.4" magS11="0.3108" uAa="0.44" uAb="2.72" uAd="0.36" uAg="5.52" uMa="0.0077" uMb="0.0065" uMd="0.0002" uMg="0.0202"/>
-		<Tuple Frequency="49.8" argS11="140.79" magS11="0.3099" uAa="0.45" uAb="2.73" uAd="0.36" uAg="5.54" uMa="0.0079" uMb="0.0065" uMd="0.0003" uMg="0.0205"/>
-		<Tuple Frequency="50.0" argS11="132.27" magS11="0.3093" uAa="0.47" uAb="2.74" uAd="0.35" uAg="5.56" uMa="0.0081" uMb="0.0065" uMd="0.0003" uMg="0.0208"/>
 	</Data>
 </Data_Table>
