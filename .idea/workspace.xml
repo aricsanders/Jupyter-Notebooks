@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="563e6aa9-0287-4d45-9f71-36b09981bd16" name="Default" comment="Import calrep&#10;&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rectangular_Graph_plot_20161130_001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data_Table_20161130_001.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CharacteristicImpedance.fig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../test_site/Test_Site/Test_Site/templates/analysis_template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.png" afterPath="$PROJECT_DIR$/test.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.tiff" afterPath="$PROJECT_DIR$/test.tiff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thumbnail.jpg" afterPath="$PROJECT_DIR$/thumbnail.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/img/current_plot.png" afterPath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/img/current_plot.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" afterPath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Rectangular_Data_Table_Bijective_Example_20161129_001-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Rectangular_Data_Table_Bijective_Example_20161129_001-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rectangular_Data_Table_Bijective_Example_20161129_001.ipynb" afterPath="$PROJECT_DIR$/Rectangular_Data_Table_Bijective_Example_20161129_001.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Image_Graph_Example_20161130_001.ipynb" afterPath="$PROJECT_DIR$/Image_Graph_Example_20161130_001.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/.idea/pyMeasureNew.iml" afterPath="$PROJECT_DIR$/../pyMeasureNew/.idea/pyMeasureNew.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pyMeasureNew/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py" afterPath="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py" />
@@ -550,12 +552,6 @@
       <option name="number" value="Default" />
       <updated>1453271875951</updated>
     </task>
-    <task id="LOCAL-00050" summary="Import calrep&#10;&#10;">
-      <created>1459282125242</created>
-      <option name="number" value="00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1459282125242</updated>
-    </task>
     <task id="LOCAL-00051" summary="Updated Views/etc&#10;&#10;&#10;">
       <created>1459282164164</created>
       <option name="number" value="00051" />
@@ -844,7 +840,13 @@
       <option name="project" value="LOCAL" />
       <updated>1480444286247</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Added Jumps example&#10;&#10;">
+      <created>1480541265177</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1480541265177</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -904,7 +906,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Side Bar example" />
     <MESSAGE value="Improved strip line tokens and one port models&#10;&#10;&#10;" />
     <MESSAGE value="Added XML examples for client side XSLT&#10;" />
     <MESSAGE value="New Development Stack details &#10;" />
@@ -929,7 +930,8 @@
     <MESSAGE value="Import calrep&#10;&#10;" />
     <MESSAGE value="revisited some examples&#10;" />
     <MESSAGE value="Tested Rectangular network on ..48.79" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tested Rectangular network on ..48.79" />
+    <MESSAGE value="Added Jumps example&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Jumps example&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
