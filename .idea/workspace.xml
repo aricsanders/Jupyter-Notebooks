@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="563e6aa9-0287-4d45-9f71-36b09981bd16" name="Default" comment="Import calrep&#10;&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CharacteristicImpedance.fig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../test_site/Test_Site/Test_Site/templates/analysis_template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.png" afterPath="$PROJECT_DIR$/test.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.tiff" afterPath="$PROJECT_DIR$/test.tiff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thumbnail.jpg" afterPath="$PROJECT_DIR$/thumbnail.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/img/current_plot.png" afterPath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/img/current_plot.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" afterPath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Image_Graph_Example_20161130_001.ipynb" afterPath="$PROJECT_DIR$/Image_Graph_Example_20161130_001.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Untitled5.ipynb" afterPath="$PROJECT_DIR$/Untitled5.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/.idea/pyMeasureNew.iml" afterPath="$PROJECT_DIR$/../pyMeasureNew/.idea/pyMeasureNew.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pyMeasureNew/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py" afterPath="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py" />
@@ -69,7 +64,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.005168">
+            <state vertical-scroll-proportion="0.9121447">
               <caret line="477" column="0" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
               <folding>
                 <element signature="e#103#148#0" expanded="true" />
@@ -232,8 +227,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="128" />
-    <option name="y" value="214" />
+    <option name="x" value="135" />
+    <option name="y" value="241" />
     <option name="width" value="1280" />
     <option name="height" value="726" />
   </component>
@@ -552,12 +547,6 @@
       <option name="number" value="Default" />
       <updated>1453271875951</updated>
     </task>
-    <task id="LOCAL-00051" summary="Updated Views/etc&#10;&#10;&#10;">
-      <created>1459282164164</created>
-      <option name="number" value="00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1459282164164</updated>
-    </task>
     <task id="LOCAL-00052" summary="scratch&#10;&#10;">
       <created>1459282218357</created>
       <option name="number" value="00052" />
@@ -846,23 +835,29 @@
       <option name="project" value="LOCAL" />
       <updated>1480541265177</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="ImageGraph&#10;&#10;">
+      <created>1480619336606</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1480619336606</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="128" y="214" width="1280" height="726" extended-state="0" />
+    <frame x="135" y="241" width="1280" height="726" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3425633" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273906" sideWeight="0.45886075" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273906" sideWeight="0.4620253" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3089431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273906" sideWeight="0.54113925" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273906" sideWeight="0.53797466" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26661393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -906,7 +901,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Improved strip line tokens and one port models&#10;&#10;&#10;" />
     <MESSAGE value="Added XML examples for client side XSLT&#10;" />
     <MESSAGE value="New Development Stack details &#10;" />
     <MESSAGE value="test site changes&#10;&#10;" />
@@ -931,7 +925,8 @@
     <MESSAGE value="revisited some examples&#10;" />
     <MESSAGE value="Tested Rectangular network on ..48.79" />
     <MESSAGE value="Added Jumps example&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Jumps example&#10;&#10;" />
+    <MESSAGE value="ImageGraph&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="ImageGraph&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1351,7 +1346,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.005168">
+        <state vertical-scroll-proportion="0.9121447">
           <caret line="477" column="0" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
           <folding>
             <element signature="e#103#148#0" expanded="true" />
