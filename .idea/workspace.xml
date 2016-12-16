@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="563e6aa9-0287-4d45-9f71-36b09981bd16" name="Default" comment="Import calrep&#10;&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thumbnail_test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Two_Port_Graph_20161215_001-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Two_Port_Graph_20161215_001.ipynb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../test_site/Test_Site/Test_Site/templates/analysis_template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.png" afterPath="$PROJECT_DIR$/test.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thumbnail.jpg" afterPath="$PROJECT_DIR$/thumbnail.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/img/current_plot.png" afterPath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/img/current_plot.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" afterPath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Translations_Scratch_20161213_001-checkpoint.ipynb" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Translations_Scratch_20161213_001-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Translations_Scratch_20161213_001.ipynb" afterPath="$PROJECT_DIR$/Translations_Scratch_20161213_001.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/.idea/pyMeasureNew.iml" afterPath="$PROJECT_DIR$/../pyMeasureNew/.idea/pyMeasureNew.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pyMeasureNew/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py" afterPath="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py" />
@@ -68,7 +65,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="19.857576">
+            <state vertical-scroll-proportion="1.4341085">
               <caret line="460" column="49" selection-start-line="460" selection-start-column="49" selection-end-line="460" selection-end-column="49" />
               <folding>
                 <element signature="e#103#148#0" expanded="true" />
@@ -80,7 +77,7 @@
       <file leaf-file-name="canvas_template2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_Site/templates/canvas_template2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.653846">
+            <state vertical-scroll-proportion="0.0">
               <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding />
             </state>
@@ -231,8 +228,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="135" />
-    <option name="y" value="241" />
+    <option name="x" value="84" />
+    <option name="y" value="2" />
     <option name="width" value="1280" />
     <option name="height" value="726" />
   </component>
@@ -278,7 +275,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,8 +283,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jupyter-Notebooks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jupyter-Notebooks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -550,18 +557,6 @@
       <created>1453271875951</created>
       <option name="number" value="Default" />
       <updated>1453271875951</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Side Bar example">
-      <created>1459350652211</created>
-      <option name="number" value="00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1459350652211</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Improved strip line tokens and one port models&#10;&#10;&#10;">
-      <created>1459556057405</created>
-      <option name="number" value="00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1459556057405</updated>
     </task>
     <task id="LOCAL-00055" summary="Import calrep&#10;&#10;">
       <created>1459556078787</created>
@@ -845,19 +840,31 @@
       <option name="project" value="LOCAL" />
       <updated>1481567645071</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Import calrep&#10;&#10;">
+      <created>1481763446389</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1481763446389</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Added some graph stuff">
+      <created>1481838768790</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1481838768790</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="241" width="1280" height="726" extended-state="0" />
+    <frame x="84" y="2" width="1280" height="726" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3425633" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273906" sideWeight="0.4620253" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273906" sideWeight="0.46518987" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3089431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273906" sideWeight="0.53797466" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3273906" sideWeight="0.5348101" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26661393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -905,7 +912,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added XML examples for client side XSLT&#10;" />
     <MESSAGE value="New Development Stack details &#10;" />
     <MESSAGE value="test site changes&#10;&#10;" />
     <MESSAGE value="Comment Handling&#10;&#10;" />
@@ -930,7 +936,8 @@
     <MESSAGE value="Added Jumps example&#10;&#10;" />
     <MESSAGE value="ImageGraph&#10;&#10;" />
     <MESSAGE value="Import calrep&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Import calrep&#10;&#10;" />
+    <MESSAGE value="Added some graph stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some graph stuff" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1334,7 +1341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_Site/templates/canvas_template2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.653846">
+        <state vertical-scroll-proportion="0.0">
           <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
           <folding />
         </state>
@@ -1350,7 +1357,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="19.857576">
+        <state vertical-scroll-proportion="1.4341085">
           <caret line="460" column="49" selection-start-line="460" selection-start-column="49" selection-end-line="460" selection-end-column="49" />
           <folding>
             <element signature="e#103#148#0" expanded="true" />
