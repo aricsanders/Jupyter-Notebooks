@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="./DEFAULT_STATE_STYLE.xsl"?>
+<Instrument_State>
+	<State_Description>
+		<Instrument_Description>C:\ProgramData\Anaconda2\lib\site-packages\pyMeasure\Code\InstrumentControl\..\..\Instruments\RS_ZVA110_4639_01.xml</Instrument_Description>
+	</State_Description>
+	<State Date="2017-04-19T20:20:23.904000"/>
+</Instrument_State>
