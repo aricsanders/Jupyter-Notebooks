@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="DEFAULT_STATE_STYLE.xsl"?>
+<Instrument_State>
+	<State>
+		<Tuple Set="test" Value="1"/>
+	</State>
+	<State_Description>
+		<State_Timestamp>2017-04-27T01:12:42.777000</State_Timestamp>
+		<Temperature>20</Temperature>
+	</State_Description>
+</Instrument_State>

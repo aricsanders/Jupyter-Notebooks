@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="./DEFAULT_STATE_STYLE.xsl"?>
+<Instrument_State>
+	<State>
+		<Tuple Index="0" Set="SENS:CORR:STAT" Value="0"/>
+		<Tuple Index="2" Set="SENS:AVER" Value="0"/>
+	</State>
+	<State_Description>
+		<State_Timestamp>2017-05-05T16:19:24.471000</State_Timestamp>
+		<Instrument_Description>C:\ProgramData\Anaconda2\lib\site-packages\pyMeasure\Code\InstrumentControl\..\..\Instruments\E8361A_PNA_01.xml</Instrument_Description>
+	</State_Description>
+	<State_Description/>
+</Instrument_State>

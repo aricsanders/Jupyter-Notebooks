@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="./DEFAULT_STATE_STYLE.xsl"?>
+<Instrument_State>
+	<State>
+		<Tuple Set="SENS:AVER" Value="0"/>
+		<Tuple Set="SENS:BAND" Value="+3.00000000000E+004"/>
+		<Tuple Set="SOUR:POW" Value="-5.00000000000E+001"/>
+		<Tuple Set="SENS:SWE:TYPE" Value="LIN"/>
+		<Tuple Set="SOUR:POW:CORR:STAT" Value="0"/>
+		<Tuple Set="SOUR:POW:SLOP" Value="+0.00000000000E+000"/>
+		<Tuple Set="SENS:CORR:STAT" Value="0"/>
+	</State>
+	<State_Description>
+		<State_Timestamp>2017-05-05T15:35:24.927000</State_Timestamp>
+		<Instrument_Description>C:\ProgramData\Anaconda2\lib\site-packages\pyMeasure\Code\InstrumentControl\..\..\Instruments\E8361A_PNA_01.xml</Instrument_Description>
+	</State_Description>
+	<State_Description/>
+</Instrument_State>
