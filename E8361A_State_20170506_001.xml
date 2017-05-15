@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="./DEFAULT_STATE_STYLE.xsl"?>
+<Instrument_State>
+	<State>
+		<Tuple Set="SENS:AVER" Value="Buffer Read at 2017-05-07T05:34:36.524000"/>
+		<Tuple Set="SENS:BAND" Value="Buffer Read at 2017-05-07T05:34:36.525000"/>
+		<Tuple Set="SOUR:POW" Value="Buffer Read at 2017-05-07T05:34:36.532000"/>
+		<Tuple Set="SENS:SWE:TYPE" Value="Buffer Read at 2017-05-07T05:34:36.530000"/>
+		<Tuple Set="SOUR:POW:CORR:STAT" Value="Buffer Read at 2017-05-07T05:34:36.533000"/>
+		<Tuple Set="SOUR:POW:SLOP" Value="Buffer Read at 2017-05-07T05:34:36.534000"/>
+		<Tuple Set="SENS:CORR:STAT" Value="Buffer Read at 2017-05-07T05:34:36.531000"/>
+	</State>
+	<State_Description>
+		<State_Timestamp>2017-05-07T05:34:36.540000</State_Timestamp>
+		<Instrument_Description>C:\ProgramData\Anaconda2\lib\site-packages\pyMeasure\Code\InstrumentControl\..\..\Instruments\E8361A_PNA_01.xml</Instrument_Description>
+	</State_Description>
+	<State_Description/>
+</Instrument_State>
