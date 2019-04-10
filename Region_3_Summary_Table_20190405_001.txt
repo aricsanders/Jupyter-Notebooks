@@ -1,0 +1,2 @@
+Timestamp,Reported_Power_Median,Measured_Power_Median,Ratio_Median_Power,Enb_Config,Non_Enb_Config,Round,Total_Tx_Power,Negative_Power_Headroom_Percentage
+1548009442,9.959,-62.665,72.624,27,1,4,22.0,1.0
