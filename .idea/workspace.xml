@@ -6,8 +6,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/img/current_plot.png" afterPath="$PROJECT_DIR$/../test_site/Test_Site/Test_App/static/Test_App/img/current_plot.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" afterPath="$PROJECT_DIR$/../test_site/Test_Site/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bokeh_Example_20181213.ipynb" afterPath="$PROJECT_DIR$/Bokeh_Example_20181213.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log_lines.html" afterPath="$PROJECT_DIR$/log_lines.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Building_Training_Set__By_Device_Type_20190211_Desktop_Only.ipynb" afterPath="$PROJECT_DIR$/Building_Training_Set__By_Device_Type_20190211_Desktop_Only.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/.idea/pyMeasureNew.iml" afterPath="$PROJECT_DIR$/../pyMeasureNew/.idea/pyMeasureNew.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pyMeasureNew/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py" afterPath="$PROJECT_DIR$/../pyMeasureNew/pyMeasure/Code/DataHandlers/TouchstoneModels.py" />
@@ -97,8 +96,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5141388">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.84832907">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -274,8 +273,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -291,6 +290,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Jupyter-Notebooks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jupyter-Notebooks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jupyter-Notebooks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".ipynb_checkpoints" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -557,24 +570,6 @@
       <created>1453271875951</created>
       <option name="number" value="Default" />
       <updated>1453271875951</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Comment Handling&#10;&#10;">
-      <created>1461116725445</created>
-      <option name="number" value="00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1461116725446</updated>
-    </task>
-    <task id="LOCAL-00069" summary="updated example of sparameter&#10;&#10;">
-      <created>1461116922475</created>
-      <option name="number" value="00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1461116922475</updated>
-    </task>
-    <task id="LOCAL-00070" summary="Round Robin Data&#10;&#10;">
-      <created>1463518583544</created>
-      <option name="number" value="00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1463518583544</updated>
     </task>
     <task id="LOCAL-00071" summary="Import calrep&#10;&#10;">
       <created>1463699270641</created>
@@ -852,7 +847,25 @@
       <option name="project" value="LOCAL" />
       <updated>1486077057463</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="New Bokeh Example&#10;">
+      <created>1544827994511</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1544827994512</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Import calrep&#10;&#10;">
+      <created>1544828170122</created>
+      <option name="number" value="00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1544828170122</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Training  and Test Results">
+      <created>1549906125657</created>
+      <option name="number" value="00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1549906125657</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -862,9 +875,9 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.340981" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263328" sideWeight="0.48892406" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263328" sideWeight="0.49208862" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3089431" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263328" sideWeight="0.511076" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3263328" sideWeight="0.5079114" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26607144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -912,8 +925,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="New test site" />
-    <MESSAGE value="ASC_History_Plots and extra scratch work" />
     <MESSAGE value="Renamed Calrep" />
     <MESSAGE value="Some notebooks for comparison&#10;" />
     <MESSAGE value="More radical comparisions, look in TRL/REF/T1 and Rs/T1 for error boxes" />
@@ -928,7 +939,6 @@
     <MESSAGE value="Added some graph stuff" />
     <MESSAGE value="New HTML MOdels" />
     <MESSAGE value="Scratch work" />
-    <MESSAGE value="Import calrep&#10;&#10;" />
     <MESSAGE value="Fixed some issues with ResultFileModel and database&#10;" />
     <MESSAGE value="date history in calrep sub&#10;" />
     <MESSAGE value="Added standard error to calrep subtraction..&#10;" />
@@ -937,7 +947,10 @@
     <MESSAGE value="Updated some files&#10;Note Sparameter_Power_Data_Transformation_20160502_001" />
     <MESSAGE value="SVG Example" />
     <MESSAGE value="HTML, CSS, Js example" />
-    <option name="LAST_COMMIT_MESSAGE" value="HTML, CSS, Js example" />
+    <MESSAGE value="New Bokeh Example&#10;" />
+    <MESSAGE value="Import calrep&#10;&#10;" />
+    <MESSAGE value="Training  and Test Results" />
+    <option name="LAST_COMMIT_MESSAGE" value="Training  and Test Results" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1355,8 +1368,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../test_site/Test_Site/Test_App/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5141388">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.84832907">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding />
         </state>
       </provider>
